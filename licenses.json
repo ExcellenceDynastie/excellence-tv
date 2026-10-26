@@ -1,8 +1,8 @@
 {
- "v": 1,
- "updated": "2026-10-26T03:21:39.489Z",
+ "v": 2,
+ "updated": "2026-10-26T12:06:50.114Z",
  "licences": {
-  "4274a481ca3f8915ca94034dc33edb43a6b9b1c924cd73692ba7b38b822db703": {
+  "9a9880e9bc8375a7a5e3c269ea6492186138e283ea1b393bb660c7acce8c6d41": {
    "state": "active",
    "kind": "gift",
    "until": null,
