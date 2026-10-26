@@ -1,5 +1,11 @@
 {
   "version": 1,
   "opensubtitlesKey": "V1OnApSXJsB8RxtO07cDq2GuHxAoB0F2",
-  "tmdbKey": ""
+  "tmdbKey": "",
+  "offer": {
+    "price": "",
+    "pay": "",
+    "contact": ""
+  },
+  "licenceApi": ""
 }
