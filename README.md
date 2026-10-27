@@ -10,6 +10,6 @@ Site public d'Excellence TV, lecteur IPTV pour Windows. L'appli ne fournit aucun
 | `licenses.json` | Accès de l'édition payante : seulement les empreintes (identifiant + clé) et leur état (actif, en attente du paiement, révoqué). Écrit par `npm run licence` |
 | `activer.html` | Page d'un lien d'activation (QR code, message) : affiche l'identifiant et la clé, qui restent dans le fragment de l'adresse, et ouvre l'appli |
 
-Assistance : onglet [Issues](https://github.com/jaimelavittel/excellence-tv/issues).
+Assistance : onglet [Issues](https://github.com/ExcellenceDynastie/excellence-tv/issues).
 
 Ce dépôt est publié depuis le projet de l'appli (`store/site/`, `npm run site:publish`) : modifier les fichiers là-bas.
